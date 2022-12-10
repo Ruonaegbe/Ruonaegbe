@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruonaegbe
 - 👀 I’m interested in Blockchain,crypto, coding, programming 
 - 🌱 I’m currently learning blockchain,  programming,  coding
-- 💞️ I’m looking to collaborate on BVS blockchain and crypto 
+- 💞️ I’m looking to collaborate on BSV blockchain and crypto 
 - 📫 How to reach me here
 
 <!---
